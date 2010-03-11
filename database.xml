@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Storage for Active Modules, and Other Information -->
+
+<root>
+    <module="twitter">
+        <status>active</status>
+        <user>Test</user>
+    </module>
+    <module="something">
+        <status>inactive</status>
+        <otherinfo>something here</otherinfo>
+    </module>
+    <module="countdown">
+        <status>active</status>
+        <date>01/22/2009</date>
+    </module>
+</root>
