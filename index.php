@@ -3,10 +3,17 @@
 	<title>Statusarchy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
         <link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
-        <link rel="java" href="http://code.jquery.com/jquery-1.4.1.min.js" />
-        <?php include('features.php'); ?>
-        <?php echo twitterCapture(); ?>
-</head>
+        <script src="http://code.jquery.com/jquery-1.4.1.min.js" type="text/javascript"></script>
+
+
+
+
+<?php include('features.php'); ?>
+
+
+
+
+     </head>
 
 <body>
 <div id="wrap">
@@ -164,7 +171,7 @@
 		</ul>
 	</div>
 	
-	<div id="othertweets">
+	<div id="news">
 		<ul>
 			<li>the last 14+ years. I cant begin to say how much I love Coda.</li>
 			<li>* Healthy</li>
